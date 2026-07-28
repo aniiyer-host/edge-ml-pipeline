@@ -1,3 +1,22 @@
-.venv
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Data
 *.csv
+
+# Outputs
+outputs/
+
+# TensorFlow Lite Micro
 tflite-micro/
+
+# Jupyter
+.ipynb_checkpoints/
