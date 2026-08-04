@@ -11,6 +11,10 @@ __pycache__/
 
 # Data
 *.csv
+*.jpg
+*.sqlite
+*.npy
+*.keras
 
 # Outputs
 outputs/
