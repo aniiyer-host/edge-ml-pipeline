@@ -37,3 +37,14 @@
 # train_df = pd.read_csv(TRAIN_CSV)
 
 # print(train_df.head())
+
+import numpy as np
+
+train_accuracy = np.load("train_accuracy.npy")
+val_accuracy = np.load("val_accuracy.npy")
+
+print("Final Training Accuracy:",
+      train_accuracy[-1] * 100, "%")
+
+print("Final Validation Accuracy:",
+      val_accuracy[-1] * 100, "%")
