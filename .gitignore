@@ -16,6 +16,8 @@ IA/
 *.sqlite
 *.npy
 *.keras
+*.h5
+*tflite
 
 # Outputs
 outputs/
