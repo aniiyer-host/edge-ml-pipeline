@@ -21,7 +21,7 @@ IA/
 *.npz
 *.json
 exp7/rosbag/*
-exp8/*
+exp8/arduino
 
 # Outputs
 outputs/
