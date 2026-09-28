@@ -18,6 +18,10 @@ IA/
 *.keras
 *.h5
 *tflite
+*.npz
+*.json
+exp7/rosbag/*
+exp8/*
 
 # Outputs
 outputs/
