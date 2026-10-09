@@ -20,8 +20,6 @@ IA/
 *tflite
 *.npz
 *.json
-exp7/rosbag/*
-exp8/arduino
 
 # Outputs
 outputs/
@@ -32,3 +30,12 @@ bazel-downloads/
 
 # Jupyter
 .ipynb_checkpoints/
+
+#miscellaneous
+exp7/rosbag/*
+exp8/arduino
+LABCA/gesture-cmd
+gesture_model_int8.h
+dataset.txt
+.venv-gesture/
+CHRONOLOGICAL_PROJECT_LOG.
